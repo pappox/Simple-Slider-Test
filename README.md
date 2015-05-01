@@ -1,4 +1,4 @@
-Simple-Slider-Test
+Simple-Slider
 ==================
 
-Here is the test
+This is a simple jQuery Slider. I just created for my Practice.
